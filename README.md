@@ -5,7 +5,7 @@
 
 My favorite anime series is **Boruto: Naruto Next Generations**. It is an exciting anime that continues the story of Naruto Uzumaki and introduces the next generation of ninjas.
 
-![Boruto Anime](https://raw.githubusercontent.com/macasucharles-HUB/app-dev/main/images/boruto.jpg)
+![Boruto Anime](images/boruto.jpg)
 
 ## Main Characters
 
